@@ -1,7 +1,9 @@
 # minka_control
 John Adams <jna@retina.net>                                                                       8/9/2016                                                                                                                                                      
 Controls a Minka Aire Fan with a Yardstick One or other compatible RFCat / SDR transmitter
-These fans utiize a 306.1Mhz receiver
+These fans utiize a 306.1Mhz receiver.
+
+Requires Python and RFCat libraries (aka rflib)
 
 This code was written so that I could learn SDR and as a preliminary piece of code to connect my fans to my Insteon Home Automation system.
 An Indigo module is forthcoming.
