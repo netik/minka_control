@@ -1,5 +1,5 @@
 # minka_control
-John Adams <jna@retina.net>                                                                       8/9/2016                                                                                                                                                      
+
 Controls a Minka Aire Fan with a Yardstick One or other compatible RFCat / SDR transmitter
 These fans utiize a 306.1Mhz receiver.
 
@@ -12,10 +12,8 @@ An Indigo module is forthcoming.
 
 My remote was Minka Aire Remote model # TR110A FCC ID KUJCE10007 
 
-This software does not account for the DIP switch settings.
-
-However, My DIP switches are set to:
-
+This software does not account for the changing of the DIP switch settings.
+It will only work with the switches set to:
 ```
 SW8 = 0111 
 SW9 = 1111
